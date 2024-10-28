@@ -7,7 +7,7 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 2) Create a workspace
 3) Create a lakehouse with the name "LAKEHOUSE"
 4) Import all the notebooks from this REPO
-5) Attach lakehouse to each imported notebook as a default
+5) Attach lakehouse to each imported notebook as a default. It is important, otherwise, the process will raise the Error because it doesn't understand the target or source location.
 6) Inside workspace, create a custom environment, with two preinstalled public libraries:
 - openai
 - googlemaps
