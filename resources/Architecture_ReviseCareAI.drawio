@@ -1,0 +1,76 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="LjbKRYfqVMJEO9M4fO61">
+    <mxGraphModel dx="984" dy="633" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PBI (future)&lt;/div&gt;&lt;div&gt;Python (current simple implementation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="114" width="275.5" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LakeHouse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="175" y="286" width="400" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-1" value="Google Map&lt;div&gt;API&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.maps_api" vertex="1" parent="1">
+          <mxGeometry x="75" y="187.5" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-3" value="[Fabric Notebook]&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="225" y="175" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-4" value="RAW&lt;div&gt;Layer&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="225" y="317" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-5" value="[Fabric Notebook]&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="175" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-6" value="&lt;div&gt;Enriched&lt;/div&gt;&lt;div&gt;Layer&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="317" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-7" target="gOR0ky5Z3ZqMc97cAOBS-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-7" value="[Fabric Notebook]&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="478" y="175" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-8" value="&lt;div&gt;Curated&lt;/div&gt;&lt;div&gt;Layer&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="478" y="317" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-3" target="gOR0ky5Z3ZqMc97cAOBS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-5" target="gOR0ky5Z3ZqMc97cAOBS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-7" target="gOR0ky5Z3ZqMc97cAOBS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-15" value="Azure Data Factory&lt;div&gt;(future)&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="25" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-16" value="Report 3" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="675" y="256" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-1" target="gOR0ky5Z3ZqMc97cAOBS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-4" target="gOR0ky5Z3ZqMc97cAOBS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gOR0ky5Z3ZqMc97cAOBS-6" target="gOR0ky5Z3ZqMc97cAOBS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-21" value="Report 2" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="799" y="138" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-23" value="Report 4" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="799" y="253" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-24" value="Report 5" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="748" y="370" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gOR0ky5Z3ZqMc97cAOBS-25" value="Report 1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="675" y="138" width="51" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
