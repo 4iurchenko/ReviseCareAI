@@ -18,4 +18,17 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 10) If you need to reconfigure which Hospitals should be included, run the notebook "1_ReviseCareAI_HospitalsInitialization" and copy its input into the first cell of the 2_ReviseCareAI_Reviews_Enriched
 
 # Architecture Diagram of the Solution
-
+```mermaid
+graph TD
+    A[Start] --> B[Create Repository]
+    B --> C[Add Files]
+    C --> D[Commit Changes]
+    D --> E[Push to GitHub]
+    E --> F[Create Pull Request]
+    F --> G[Code Review]
+    G --> H{Approved?}
+    H -->|Yes| I[Merge Pull Request]
+    H -->|No| J[Request Changes]
+    J --> D
+    I --> K[Done]
+```
