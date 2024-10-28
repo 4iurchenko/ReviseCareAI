@@ -19,16 +19,6 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 
 # Architecture Diagram of the Solution
 ```mermaid
-graph TD
-    A[Start] --> B[Create Repository]
-    B --> C[Add Files]
-    C --> D[Commit Changes]
-    D --> E[Push to GitHub]
-    E --> F[Create Pull Request]
-    F --> G[Code Review]
-    G --> H{Approved?}
-    H -->|Yes| I[Merge Pull Request]
-    H -->|No| J[Request Changes]
-    J --> D
-    I --> K[Done]
+graph LR
+    A[Google Map API] --OpenAI--> B[RAW Layer]
 ```
