@@ -22,6 +22,6 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 ```mermaid
 graph TD
     A[Google Map API] --Google API--> B[RAW Layer]
-    B --Deduplication<br>Cleansing<br>--> C[Enriched Layer 1]
+    B -.Deduplication<br>Cleansing<br>--> C[Enriched Layer 1]
     C --Enriching by Department,<br>Sentiment with OpenAI-->D[Enriched Layer 2]
 ```
