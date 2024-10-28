@@ -11,7 +11,8 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 6) Inside workspace, create a custom environment, with two preinstalled public libraries:
 - openai
 - googlemaps
-7) Be sure, MASTER_NOTEBOOK has the previously created environment. It is important, otherwise you will see the error message about missed module(s). Do the same for the rest of the notebooks.
+- ipywidgets
+7) Be sure, all the notebooks have the previously created environment as a default. It is important, otherwise you will see the error message about missed module(s).
 8) Update the notebook "0_ReviseCare_Secrets" with the right keys for Azure Open AI Key, and Google Map API Key. According to the best practices, one of the ways is to create a key vault and import them from the Key vault
 9) Run the MASTER_NOTEBOOK to process all the data and gather new ones for the configured hospitals
 
