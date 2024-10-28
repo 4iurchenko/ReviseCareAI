@@ -20,7 +20,7 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 
 # Architecture Diagram of the Solution
 resources/Architecture_ReviseCareAI.drawio.png
-![Architecture Diagram(resources/Architecture_ReviseCareAI.drawio.png)
+![Architecture Diagram](resources/Architecture_ReviseCareAI.drawio.png)
 
 
 ```mermaid
