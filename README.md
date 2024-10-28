@@ -24,4 +24,7 @@ graph TD
     A[Google Map API] --Google API--> B[RAW Layer]
     B --Deduplication<br>Cleansing<br>--> C[Enriched Layer 1]
     C --Enriching by Department,<br>Sentiment with OpenAI-->D[Enriched Layer 2]
+
+    style B fill:#8FBC8F,stroke:#333,stroke-width:2px
+    style C fill:#FFA500,stroke:#333,stroke-width:2px
 ```
