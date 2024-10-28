@@ -20,5 +20,7 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 # Architecture Diagram of the Solution
 ```mermaid
 graph LR
-    A[Google Map API] --OpenAI--> B[RAW Layer]
+    A[Google Map API] --Google API--> B[RAW Layer]
+    B --Deduplication<br>Cleansing<br>--> C[Enriched Layer 1]
+    C --Enriching by Department,<br>Sentiment with OpenAI-->D[Enriched Layer 2]
 ```
