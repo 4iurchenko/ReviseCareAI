@@ -16,3 +16,6 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 9) Run the MASTER_NOTEBOOK to process all the data and gather new ones for the configured hospitals
 
 10) If you need to reconfigure which Hospitals should be included, run the notebook "1_ReviseCareAI_HospitalsInitialization" and copy its input into the first cell of the 2_ReviseCareAI_Reviews_Enriched
+
+# Architecture Diagram of the Solution
+
