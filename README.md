@@ -19,6 +19,10 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 10) If you need to reconfigure which Hospitals should be included, run the notebook "1_ReviseCareAI_HospitalsInitialization" and copy its input into the first cell of the 2_ReviseCareAI_Reviews_Enriched
 
 # Architecture Diagram of the Solution
+resources/Architecture_ReviseCareAI.drawio.png
+![Architecture Diagram(resources/Architecture_ReviseCareAI.drawio.png)
+
+
 ```mermaid
 graph TD
     A[Google Map API] --Google API--> B[RAW Layer]
