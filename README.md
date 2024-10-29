@@ -19,7 +19,7 @@ Project for Microsoft Hackaton on Healthcare, AI, DataEngineering
 10) If you need to reconfigure which Hospitals should be included, run the notebook "1_ReviseCareAI_HospitalsInitialization" and copy its input into the first cell of the 2_ReviseCareAI_Reviews_Enriched
 
 # Data Flow Architecture Diagram of the Solution
-![Architecture Diagram](resources/Architecture_ReviseCareAI-Data Flow Diagram.drawio.png)
+![Architecture Diagram](./resources/Architecture_ReviseCareAI-Data Flow Diagram.drawio.png)
 
 # Component Diagram of the Solution
 ![Architecture Diagram](resources/Architecture_ReviseCareAI-Componen Diagram.drawio.png)
